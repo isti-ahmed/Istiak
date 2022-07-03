@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+html {
+    height: 10000px;
+    /* position: relative; */
+}
+.head {
+    background-color: yellowgreen;
+    height: 50px;
+    text-align: center;
+    border: 2px black solid;
+    padding: 10px;
+    position: sticky;
+}
+
+.head span {
+    color: red;
+    font-size: 25px;
+}
+
+.bd-flag-green {
+    width: 400px;
+    height: 240px;
+    background-color: Green;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.bd-flag-red {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 130px;
+    margin-top: 60px;
+}
